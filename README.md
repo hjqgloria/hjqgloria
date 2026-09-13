@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Jiaquan 👋
 
-<!--
-**hjqgloria/hjqgloria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Lead & developer at [Fjord Line](fjordline.com), the Norwegian
+ferry line. I own quality for our booking platform end-to-end — and build a lot
+of what surrounds it:
 
-Here are some ideas to get you started:
+- 🧪 **Quality engineering** — Playwright E2E suites, k6 load testing, and
+  in-cluster test pipelines (Testkube on AKS) with AI-narrated nightly digests
+- 💻 **Development** — production code across the stack: TypeScript/Next.js,
+  Go (real-time SIRI feeds to Entur), Python
+- 🤖 **AI-agent engineering** — MCP servers, agent-driven booking experiments,
+  LLM-assisted workflows
+- ☸️ I operate what I ship — Kubernetes/GitOps (Flux, Helm), Terraform,
+  Grafana/Prometheus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Day-job commits live under [`fl-jiaquan`](github.com/fl-jiaquan) and the
+Fjord-Line-AS org.
+
+**Hobby builds**
+- 🇳🇴 [ordkobling](github.com/hjqgloria/ordkobling) — Norwegian
+  word-connection game: Next.js 16, algorithmic grid generation, magnetic-snap
+  hit detection, Redis-backed live leaderboard
+- 🀄 [chinese-word-game](github.com/hjqgloria/chinese-word-game) — daily
+  Chinese word puzzle (React + Vite)
+
+📎 [LinkedIn](linkedin.com/in/jiaquan-huang-40204032)
